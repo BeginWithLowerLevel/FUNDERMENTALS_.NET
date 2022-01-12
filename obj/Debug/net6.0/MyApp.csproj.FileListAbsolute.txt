@@ -1,0 +1,30 @@
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\Users\Sahan Kumarasiri\Desktop\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+D:\Projects\MyApp\bin\Debug\net6.0\MyApp.exe
+D:\Projects\MyApp\bin\Debug\net6.0\MyApp.deps.json
+D:\Projects\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+D:\Projects\MyApp\bin\Debug\net6.0\MyApp.dll
+D:\Projects\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+D:\Projects\MyApp\bin\Debug\net6.0\MyApp.pdb
+D:\Projects\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+D:\Projects\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+D:\Projects\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+D:\Projects\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Projects\MyApp\obj\Debug\net6.0\MyApp.dll
+D:\Projects\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+D:\Projects\MyApp\obj\Debug\net6.0\MyApp.pdb
+D:\Projects\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
